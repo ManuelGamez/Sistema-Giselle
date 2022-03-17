@@ -1,0 +1,66 @@
+.colorbarrasuperior{
+    background-color: #101010;
+ }
+ .tamañoimagenboton{
+     width: 80px;
+     border-radius: 14px;
+ }
+ .tamañoimagenboton2{
+    width: 80px;
+    height: 50px;
+    border-radius: 14px;
+}
+.colornombrebarra{
+    color: #BA8653;
+}
+.elemento {
+    box-shadow: 2px 2px 5px #999;
+}
+.textoizquierda{
+    text-align: left;
+    color: #fbfcfd;
+    margin-block-end: 4px;
+    border-radius: 5px;
+    border-color: #1a42621e;
+    background-color: #101010;
+}
+.icono{
+    text-align: left;
+    width: 20px;
+}
+.marginbarramenu{
+    margin-top: 14px;
+    margin-left: -55px;
+}
+.fotoperfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: -130px;
+    object-fit: contain;
+    background-color: #C7BDB3;
+}
+.textoprincipal{
+    margin-top: -145px;
+    margin-left: 30px;
+    text-align: left;
+}
+.divdepresentacion{
+    margin-left: 140px;
+}
+.botonesmenucentral{
+    text-align: left;
+    color: #52412B;
+    margin-block-end: 4px;
+    border-radius: 5px;
+    border-color: #1a42621e;
+    margin-left: 5px;
+}
+.bajarmenucentral{
+    margin-top: 20px;
+}
+.imagentrabajos{
+    width: 150PX;
+    height: 150PX;
+}
